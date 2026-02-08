@@ -1,6 +1,6 @@
-# four.gw
+ñ# four.gw
 This project is formed by FourGw Productions, but supported by TimerCodeGSI Productions, easy to use, that's why we created this repository to teach.  
 
-[Earth Example]() —
-[Earth Atmosphere]() —
-[Lat Lon To XYZA]() 
+[Earth Example](https://github.com/TimerCodeGob/four.gw/tree/main/four-earth) —
+[Earth Atmosphere](https://github.com/TimerCodeGob/four.gw/tree/main/four-earth) —
+[Lat Lon To XYZA](https://github.com/TimerCodeGob/four.gw/tree/main/four-earth) 
