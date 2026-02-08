@@ -1,4 +1,4 @@
-ñ# four.gw
+# four.gw
 This project is formed by FourGw Productions, but supported by TimerCodeGSI Productions, easy to use, that's why we created this repository to teach.  
 
 [Earth Example](https://github.com/TimerCodeGob/four.gw/tree/main/four-earth) —
